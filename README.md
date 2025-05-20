@@ -150,4 +150,5 @@ MIT. Made for ThinkPad enthusiasts.
 
 --- 
 
-This `README.md` is optimized for **ThinkPad T61 users**—saving every byte of RAM while keeping usability. Let me know if you want a **Dockerized version**! 🐳
+
+
